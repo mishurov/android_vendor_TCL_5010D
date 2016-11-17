@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfSpn version="1">
+  <virtualSpnOverride mccmncspn="20810Virgin" name="Virgin"/>
+  <virtualSpnOverride mccmncspn="88888test" name="TEST"/>
+  <virtualSpnOverride mccmncspn="21406Hits" name="Hits"/>
+  <virtualSpnOverride mccmncspn="21403OPENMOVIL" name="OPENMOVIL"/>
+  <virtualSpnOverride mccmncspn="21403mobilR" name="mobilR"/>
+  <virtualSpnOverride mccmncspn="31030Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="26033Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="21427Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="21404Yoigo" name="Yoigo"/>
+  <virtualSpnOverride mccmncspn="21404telecable" name="telecable"/>
+  <virtualSpnOverride mccmncspn="45400csl." name="csl."/>
+  <virtualSpnOverride mccmncspn="25001MTS RUS" name="MTS RUS"/>
+  <virtualSpnOverride mccmncspn="21406Lowi" name="Lowi"/>
+  <virtualSpnOverride mccmncspn="21403YOU Mobile" name="YOU Mobile"/>
+  <virtualSpnOverride mccmncspn="21403LlamaYA" name="LlamaYA"/>
+  <virtualSpnOverride mccmncspn="21403LCR" name="LCR"/>
+  <virtualSpnOverride mccmncspn="21405pepephone" name="pepephone"/>
+  <virtualSpnOverride mccmncspn="21403MovilDIA" name="MovilDIA"/>
+  <virtualSpnOverride mccmncspn="33818Lime" name="Lime"/>
+  <virtualSpnOverride mccmncspn="21403simyo" name="simyo"/>
+  <virtualSpnOverride mccmncspn="21403JAZZTEL" name="JAZZTEL"/>
+  <virtualSpnOverride mccmncspn="23213UPC AT" name="UPC AT"/>
+  <virtualSpnOverride mccmncspn="20416KDK     KD" name="KDK     KD"/>
+  <virtualSpnOverride mccmncspn="20810NRJ Mobile" name="NRJ Mobile"/>
+  <virtualSpnOverride mccmncspn="20801NRJ Mobile" name="NRJ Mobile"/>
+  <virtualSpnOverride mccmncspn="22234BT Italia" name="BT Italia"/>
+  <virtualSpnOverride mccmncspn="21405Tuenti" name="Tuenti"/>
+  <virtualSpnOverride mccmncspn="23212Ge org!" name="Ge org!"/>
+  <virtualSpnOverride mccmncspn="22201COOP Â¡OBILE" name="COOP Â¡OBILE"/>
+  <virtualSpnOverride mccmncspn="22201Coop Mobile" name="Coop Mobile"/>
+  <virtualSpnOverride mccmncspn="22201COOP" name="COOP"/>
+  <virtualSpnOverride mccmncspn="26242Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="23425Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="45408Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="50502Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="310300Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="20404Truphone" name="Truphone"/>
+  <virtualSpnOverride mccmncspn="20826EI Telecom" name="EI Telecom"/>
+  <virtualSpnOverride mccmncspn="21403Carrefour" name="Carrefour"/>
+  <virtualSpnOverride mccmncspn="21403CABLE movil" name="CABLE movil"/>
+  <virtualSpnOverride mccmncspn="21403Happy" name="Happy"/>
+  <virtualSpnOverride mccmncspn="21403Ibercom" name="Ibercom"/>
+  <virtualSpnOverride mccmncspn="311500Mosaic" name="Mosaic"/>
+  <virtualSpnOverride mccmncspn="311500Norvado Wireless" name="Norvado Wireless"/>
+  <virtualSpnOverride mccmncspn="31150024-7 Wireless" name="24-7 Wireless"/>
+  <virtualSpnOverride mccmncspn="21403MASMovil" name="MASMovil"/>
+  <virtualSpnOverride mccmncspn="20803Orange F" name="Orange F"/>
+  <virtualSpnOverride mccmncspn="20802Orange F" name="Orange F"/>
+  <virtualSpnOverride mccmncspn="22299FASTWEB" name="FASTWEB"/>
+  <virtualSpnOverride mccmncspn="21403Orange" name="Orange"/>
+  <virtualSpnOverride mccmncspn="64702Only" name="Only"/>
+  <virtualSpnOverride mccmncspn="34002Only" name="Only"/>
+  <virtualSpnOverride mccmncspn="20826NRJ Mobile" name="NRJ Mobile"/>
+  <virtualSpnOverride mccmncspn="20810Darty" name="Darty"/>
+  <virtualSpnOverride mccmncspn="20815Free" name="Free"/>
+  <virtualSpnOverride mccmncspn="20810C le mobile" name="C le mobile"/>
+  <virtualSpnOverride mccmncspn="20801C le mobile" name="C le mobile"/>
+  <virtualSpnOverride mccmncspn="20823Virgin" name="Virgin"/>
+  <virtualSpnOverride mccmncspn="20801Virgin" name="Virgin"/>
+  <virtualSpnOverride mccmncspn="20801Orange F" name="Orange F"/>
+  <virtualSpnOverride mccmncspn="20810LeclercMobile" name="LeclercMobile"/>
+  <virtualSpnOverride mccmncspn="20810ZERO FORFAIT" name="ZERO FORFAIT"/>
+  <virtualSpnOverride mccmncspn="20810A MOBILE" name="A MOBILE"/>
+  <virtualSpnOverride mccmncspn="20810CORIOLIS" name="CORIOLIS"/>
+  <virtualSpnOverride mccmncspn="20810F SFR" name="F SFR"/>
+  <virtualSpnOverride mccmncspn="20820Bouygues Telecom" name="Bouygues Telecom"/>
+  <virtualSpnOverride mccmncspn="22233PosteMobile" name="PosteMobile"/>
+  <virtualSpnOverride mccmncspn="22210PosteMobile" name="PosteMobile"/>
+  <virtualSpnOverride mccmncspn="20810La Poste Mobile" name="La Poste Mobile"/>
+  <virtualSpnOverride mccmncspn="21406EUSKALTEL" name="EUSKALTEL"/>
+  <virtualSpnOverride mccmncspn="21406RACC" name="RACC"/>
+  <virtualSpnOverride mccmncspn="21403RACC" name="RACC"/>
+  <virtualSpnOverride mccmncspn="21406mobilR" name="mobilR"/>
+  <virtualSpnOverride mccmncspn="21403EUSKALTEL" name="EUSKALTEL"/>
+  <virtualSpnOverride mccmncspn="21406Neo-Sky" name="Neo-Sky"/>
+  <virtualSpnOverride mccmncspn="21406Eroski Movil" name="Eroski Movil"/>
+  <virtualSpnOverride mccmncspn="21406Lebara" name="Lebara"/>
+  <virtualSpnOverride mccmncspn="21406pepephone" name="pepephone"/>
+  <virtualSpnOverride mccmncspn="21406telecable" name="telecable"/>
+</virtualSpnOverridesByEfSpn>

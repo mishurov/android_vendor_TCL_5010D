@@ -1,0 +1,19 @@
+#HISTORY:This files contains Android Keypad Layout customize variables
+#HISTORY:2013-1-8: created by guangli.sun
+
+#DSA_TITLE:INIT DATA OF ANDROID Settings
+#MACRO_NAME:CUSTOM_JRDC_PARAM
+#C_NAME:custom_jrdc_dsc
+#C_TYPE:CUSTOM_JRDC_DSC
+#IDA:CUSTOM_JRDC_INIT_RDM
+#IS_IN_DSA:Yes
+
+
+#customization keypad layout
+key 158 BACK
+key 172 HOME
+key 139 MENU
+key 253 MEDIA_PREVIOUS
+key 254 MEDIA_NEXT
+key 163 MEDIA_NEXT
+key 165 MEDIA_PREVIOUS
