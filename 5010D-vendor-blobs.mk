@@ -9,7 +9,3 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/TCL/5010D/usr,syste
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/TCL/5010D/xbin,system/xbin)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/TCL/5010D/vendor,system/vendor)
-
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/TCL/5010D/data,system/data)
-
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/TCL/5010D/wlan,system/wlan)
